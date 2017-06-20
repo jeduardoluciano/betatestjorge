@@ -1,0 +1,25 @@
+{
+  "name": "betatestjorge",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-beta-test-jorge",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeduardoluciano/betatestjorge.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeduardoluciano/betatestjorge/issues"
+  },
+  "homepage": "https://github.com/jeduardoluciano/betatestjorge#readme"
+}
