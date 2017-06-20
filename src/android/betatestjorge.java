@@ -16,6 +16,8 @@
        specific language governing permissions and limitations
        under the License.
 */
+
+
 package cordova-plugin-beta-test-jorge;
 
 import org.apache.cordova.CordovaPlugin;
@@ -24,6 +26,7 @@ import org.apache.cordova.CallbackContext;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+/**
 
 /**
  * This class echoes a string called from JavaScript.
